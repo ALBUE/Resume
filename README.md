@@ -20,3 +20,4 @@ And a third C++ program with a simple pie graph.
 I hope someone can steer me to more graphs in C++, perhaps better ones.  
 My pie chart is rudimentary.  Anyone suggest where I can code in a better one?  
 
+![headshot](ALBUEsmall.gif)  
