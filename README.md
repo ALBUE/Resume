@@ -1,7 +1,7 @@
 # Resume  
 ## A little about who I am.  
 I was born and raised in Ketchikan, Alaska.    
-Retired, I live with my wife here in East Anchorage.  
+I live with my wife in East Anchorage.  
 
 ## My hobbies and pastimes.  
 I am retired.  
