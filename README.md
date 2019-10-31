@@ -1,6 +1,6 @@
 # Resume  
 ## A little about who I am.  
-I was born and raised in Ketchikan, Alaska.    
+I was born and raised in Ketchikan, Alaska, the son of Norwegian immigrants.      
 I live with my wife in East Anchorage.  
 
 ## My hobbies and pastimes.  
