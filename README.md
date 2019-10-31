@@ -8,7 +8,7 @@ I am retired.
 I enjoy jogging, keeping care of my family and myself.  
 I read daily.  
 I work on my investments.  
-I enjoy programming using C++.  I am not too good at it, but I enjoy learning.  
+I enjoy programming using C++.    I am not too good at it, but I enjoy learning.  
 
 ## GitHub hopefully will assist me in developing my C++ program  
 My C++ program contains several stocks I own. 
