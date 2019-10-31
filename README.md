@@ -12,8 +12,8 @@ I program with C++.
 I am not too good at C++, but I enjoy studying and using the language.    
 
 ## GitHub hopefully will assist me in developing my C++ program  
-My C++ program contains several stocks I own. 
-It includes dividends and other pertinent information, by stock.  
+My C++ program contains several stocks. 
+It includes dividends and other pertinent information.  
 I have an additional C++ program that appends one C++ program to another.  
 And a third C++ program with a simple pie graph.  
 
