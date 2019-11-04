@@ -26,17 +26,17 @@ My pie chart is rudimentary.  Anyone suggest where I can find better ones?
 ## Files   
   
 C++ file. Shows stocks and other information about them.
-stock_tracking1 - Copy.txt
+stock_tracking1 - Copy.txt  
 A stock selecting Menu. This C++ file will become part of the stock tracking file, above.
-simpleMenu.txt
+simpleMenu.txt  
 A C++ Pie Chart.
-It contains stock data, presented in pie chart form.
+It contains stock data, presented in pie chart form. 
 (I'd like to get fancier pie charts or other charts in C+.
 I hope the Community can suggest something.)
-PieChart.txt
+PieChart.txt  
 Below is a C++ program that will append two files.
-APPEND TWO FILES 9_2019.txt
-Below is text file for appending one file to another. I use it to text my APPEND TWO FILES program.
-examplesppend.txt
+APPEND TWO FILES 9_2019.txt  
+Below is text file for appending one file to another. I use it to test my APPEND TWO FILES program.
+examplesppend.txt  
 Below is another text file for appending one file to another. Used for testing, as above.
 example.txt
