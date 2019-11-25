@@ -39,4 +39,15 @@ APPEND TWO FILES 9_2019.txt
 Below is text file for appending one file to another. I use it to test my APPEND TWO FILES program.
 examplesppend.txt  
 Below is another text file for appending one file to another. Used for testing, as above.
-example.txt
+example.txt  
+  
+##My Reading List  
+
+Exact Thinking in Demented Times, by Karl Sigmund
+The Goldfinch, by Donna Tartt
+Floating Coast, by Bathsheba Demuth
+The Pioneers, by David McCullough
+The First Conspiracy, by Brad Meltzer and Josh Mensch
+C++ Without Fear, Third Edition, bye Brian Overland
+Edison, by Edmund Morris (ebook)
+Life Undercover, by Amaryllis Fox (ebook)
