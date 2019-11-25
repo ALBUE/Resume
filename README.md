@@ -44,11 +44,11 @@ example.txt
 ##My Reading List  
 
 *Exact Thinking in Demented Times*, by Karl Sigmund  
-*The Goldfinch, by Donna Tartt  
-*Floating Coast, by Bathsheba Demuth  
-*The Pioneers, by David McCullough  
-*The First Conspiracy, by Brad Meltzer and Josh Mensch  
-*C++ Without Fear, Third Edition, bye Brian Overland  
-*Edison, by Edmund Morris (ebook)  
-*Life Undercover, by Amaryllis Fox (ebook)  
+*The Goldfinch*, by Donna Tartt  
+*Floating Coast*, by Bathsheba Demuth  
+*The Pioneers*, by David McCullough  
+*The First Conspiracy*, by Brad Meltzer and Josh Mensch  
+*C++ Without Fear*, Third Edition, by Brian Overland  
+*Edison*, by Edmund Morris (ebook)  
+*Life Undercover*, by Amaryllis Fox (ebook)  
 
