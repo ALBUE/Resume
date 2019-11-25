@@ -43,7 +43,7 @@ example.txt
   
 ##My Reading List  
 
-*Exact Thinking in Demented Times, by Karl Sigmund  
+*Exact Thinking in Demented Times*, by Karl Sigmund  
 *The Goldfinch, by Donna Tartt  
 *Floating Coast, by Bathsheba Demuth  
 *The Pioneers, by David McCullough  
