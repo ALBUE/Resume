@@ -60,3 +60,7 @@ I have done that.  Now, I will test that this works.  Wish me luck.
 Oops.  I still get an error of some kind. 
 However, I did get this done correctly.  I simply directly deleted all YAML files  
 under __.github/workflow__ from my repository.  I am okay, now.  I learned a little.  
+
+## Setting Up a GitHub Website Repo  
+
+I am starting on page 63 of _GitHub for Dummies_
