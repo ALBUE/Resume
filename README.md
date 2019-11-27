@@ -57,4 +57,6 @@ example.txt
 To disable Actions on a specific repository, on the __Settings__ tab  
 of this repository, navigate to __Actions__, select __Disable Actions for this repository__.
 I have done that.  Now, I will test that this works.  Wish me luck.  
-Oops.  I still get an error of some kind.  
+Oops.  I still get an error of some kind. 
+However, I did get this done correctly.  I simply directly deleted all YAML files  
+under __.github/workflow__ from my repository.  I am okay, now.  I learned a little.  
