@@ -41,7 +41,7 @@ examplesppend.txt
 Below is another text file for appending one file to another. Used for testing, as above.
 example.txt  
   
-##My Reading List  
+## My Reading List  
 
 *Exact Thinking in Demented Times*, by Karl Sigmund  
 *The Goldfinch*, by Donna Tartt  
@@ -52,7 +52,7 @@ example.txt
 *Edison*, by Edmund Morris (ebook)  
 *Life Undercover*, by Amaryllis Fox (ebook)  
 
-##I no longer want to run any workflow for this repository
+## I no longer want to run any workflow for this repository
 
 To disable Actions on a specific repository, on the __Settings__ tab  
 of this repository, navigate to __Actions__, select __Disable Actions for this repository__.
